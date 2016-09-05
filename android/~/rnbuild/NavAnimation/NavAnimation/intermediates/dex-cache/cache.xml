@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-b435c038a9385dc26ab3216f44ae659d6cc3d1a5.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-7892f80eb768363574d79cf419ea192be0ba25d3.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-2264d0687905ef2b84a26a4ebd233dc005ad21b2.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/library-2.4.0-8b971fa15a846402604c614eebf4906de582851c.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-7ad807802226ebc2b89c5432be205ac39c24609e.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-0989d8d5b7a3831ad5f94a52a6a0e004ffb7e07c.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-01d2051461190e1cf2594ee0fb9663e813b4856b.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/support-annotations-23.2.1-87df189817b5c5dfc0d5feaf3f594729d998d389.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-d62ee90d943a5cdfc6758a0b0d7b0ec56dc73c36.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-193c5fd207c54fb8d5b162d1691e0f685233b414.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-91bad3612c236785b30c47aae28fabb8ff25e578.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/NavAnimation/react-native-fcm/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7cbdbc7eea34a320897f76b343f096c9cb09b13">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-ec8d8863970f439e65c657b8dc3f283272b2b0d4.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-27f8c6073e9b6120f12c87abf43e550004920667.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-cfd1e4891061a66dc8b4e7b432dc2da0eac885b9.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/internal_impl-23.2.1-dc8a1f3dc7d0fe74f4015a715a6cab46d6f32ca2.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-c1299b1464a4ba0a40a9fe6bed957b516fb905db.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-4392340384be2b47ba88cd80b6f841ae3d64a594.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-f32afd968da2c92336f42249594ce69d07b0ef72.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-bac56493d79a96cac1f68032c48fca30e06ef058.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.facebook.react/react-native/0.32.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fafe977792a3a9abcc3ead487bbb1cabe4d9b5ff">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-7487cf8d6d0403452b8145d4d82a1f1a540063cc.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/okhttp-3.4.1-e46a61f756ccf8dfa13227915a3c47988525f1fa.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-8243a55fe89eaafce53e71dc376ab9bd7f7ba723.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.facebook.react/react-native/0.32.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b3a71cee6747fa7a26450a561dbb8416e828657b">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/infer-annotations-1.5-6aaf3639f2c0ca11929d4894eb40c0099dd001d8.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-0f2eb0a40c8449759f5a140fea5b038cf9915241.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-e2dfbe262edcac12a34af8002059e7a33bd9ffb0.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-2eafdfe2f3cf010b94ab6926c74f210acb20791f.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/okio-1.9.0-dff590dbb48cd0f62863a027437276c90c31dd38.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/jsr305-3.0.0-f87306600916467e853c32f56953422637d6f805.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/jackson-core-2.2.3-ef8eb7851f8b7e74e3f392d313f8362d8eabad64.jar" />
+    </item>
+    <item
+        jar="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/aakash/Practice/NavAnimation/android/app/~/rnbuild/NavAnimation/app/intermediates/pre-dexed/debug/classes-1146864ad5189be9273ec793b86c6daf27e40847.jar" />
+    </item>
+
+</items>
