@@ -11,6 +11,19 @@ class App extends Component {
     FCM.requestPermissions(); // for iOS
     FCM.getFCMToken().then(token => {
       console.log(token)
+      fetch('http://192.168.0.107:3000/api/register', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          name: 'Aakash Android S7',
+          deviceToken: token
+        })
+      })
+      .then(response => response.json())
+      .then(console.log)
+      .catch(err => console.log('error aakash', err))
       console.log('first')
       // store fcm token in your server
     });
